@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Saxena</h1>
 <h3 align="center">Hi there! I'm a second-year Computer Science student at the University of Manchester. I'm passionate about coding, exploring AI, and building robust applications. I thrive on tackling new challenges and innovating with technology.</h3>
 
-- 🔭 I’m currently working on **CV Builder**
 
-- 🌱 I’m currently learning **React, AZ900 Fundamentals**
+- 🌱 I’m currently learning **MERN Stack, AZ900 Fundamentals**
 
 - 📫 How to reach me **sahil2024saxena@gmail.com**
 
