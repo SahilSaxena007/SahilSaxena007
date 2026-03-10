@@ -37,17 +37,16 @@ Backtrack targets the trust barrier in agentic AI — a critical unmet need if s
 
 ---
 
-## 🎓 Dissertation Project — Human Motion Modeling & Prediction
+## 🎓 Dissertation Project — HITL Alzheimer’s Classifier
 
-For my undergraduate dissertation, I developed a **probabilistic human motion prediction system** using deep generative models, with applications in human–robot interaction and collaborative automation.
-
-**Project focus:**
-- I implemented a bidirectional LSTM + attention architecture to forecast multi-modal motion trajectories from time-series sensor data.
-- Trained the model to capture uncertainty and multi-modality in human movement via a Mixture Density Network output layer.
-- Evaluated performance on real motion capture datasets, demonstrating robust prediction of diverse future behaviors.
-- Built an interactive visualization dashboard for qualitative model evaluation.
-
-This project strengthened my expertise in sequence modeling, uncertainty quantification, and integrating ML pipelines with downstream decision systems.
+• Designed a Human-in-the-Loop ensemble classifier (CatBoost, Random Forest, Neural Network) for early Alzheimer’s
+staging using clinical biomarker data, improving accuracy from 73.7% to 82.8% over an AI-only baseline.
+• Integrated SHAP-based explainability into an interactive clinician review dashboard, enabling transparent, auditable
+decision support for uncertain model predictions.
+• Reduced misclassification cost by up to 58% through structured human oversight integration, validated with McNemar’s
+test p < 0.001 — demonstrating rigorous statistical evaluation of model behaviour under real-world uncertainty.
+• Built a comprehensive evaluation framework spanning probability calibration, cross-validation, and controlled AI-only vs.
+HITL comparative experiments to quantify the measurable value of human oversight over automated decision-making.
 
 ---
 
